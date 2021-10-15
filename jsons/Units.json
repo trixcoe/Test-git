@@ -1,0 +1,19 @@
+[
+
+
+	/* Ancient Era */
+	{
+		"name": "Jaguar",
+		"unitType": "Sword",
+		"uniqueTo": "Aztecs",
+		"replaces": "Warrior",
+		"movement": 10,
+		"strength": 90,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"uniques": ["+[50]% Strength in [Forest]", "+[50]% Strength in [Jungle]", "Heals [55] damage if it kills a unit"],
+		"promotions": ["Woodsman"],
+		"attackSound": "nonmetalhit"
+	}
+	*/
+]
